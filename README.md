@@ -1,15 +1,9 @@
 
-# Skills
-
-* Below skills are required to complete the deployment steps:
-
-* Linux User Management, Permissions, Directory Structure, File Systems, File Management
-
 # Pre-Requisites
 
 * To complete the assignment below, log in to AWS cloud and create a Linux-based EC2 instance or run on VMware.
 
-# Root Directory:
+# Root Directory
 ![Root Dir](pht/rootdir.png)
 
 # Deployment
