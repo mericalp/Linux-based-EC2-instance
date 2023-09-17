@@ -37,7 +37,7 @@
 * Write this text “Linux assessment for an DevOps Engineer!! Learn with Fun!!” to the /f3 file and save it.
 
 
-[4 to 11](md/4to11.md)
+[4 to 11](md/5to11.md)
 
 5. Login as ‘user2’ and perform below
 * Create file “/dir1/f2”
