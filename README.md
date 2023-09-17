@@ -1,9 +1,9 @@
 
 # Skills
 
-Below skills are required to complete the deployment steps:
+* Below skills are required to complete the deployment steps:
 
-Linux User Management, Permissions, Directory Structure, File Systems, File Management
+* Linux User Management, Permissions, Directory Structure, File Systems, File Management
 
 # Pre-Requisites
 
